@@ -39,7 +39,7 @@ from custom_components.solis_cloud_control.const import (
 
 _LOGGER = logging.getLogger(__name__)
 
-_COORDINATOR_NAME = "Solis Cloud Control"
+_COORDINATOR_NAME = "Solis Cloud Control v.Peet"
 
 _UPDATE_INTERVAL = timedelta(minutes=3)
 
